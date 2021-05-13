@@ -45,7 +45,7 @@ const swaggerDefinition = {
       description: ' Development server'
     },
     {
-      url: 'https://my-api-morto.azurewebsites.net/',
+      url: 'https://api-morto.azurewebsites.net/',
       description: 'Production sever Cloud Azure'
     }
   ],
