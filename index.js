@@ -35,7 +35,7 @@ const swaggerDefinition = {
     description: " API com informação de mortes do ano 2021",
     license: {
       name: "Vagner Bom Jesus",
-      url: "https://github.com/VagnerBomJesus"
+      url: "https://github.com/VagnerBomJesus/api-mortos/"
     }
     
   },
