@@ -151,7 +151,7 @@
  *                   description: The jsonwebtoken value.
  *                   example: eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiVmFnbmVyQm9tSmVzdXMiLCJVc2VybmFtZSI6IlZhZ25lciBCb20gSmVzdXMifQ.v4BcDDTFqMXhpi7ofKmhDLkkiiNtPXYlvZGgS8gU38M
  *
- * @swagger
+ * 
  * /user/isAuthorized:
  *   get:
  *     tags: 
