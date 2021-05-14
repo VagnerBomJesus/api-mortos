@@ -15,6 +15,12 @@
 <br>
 <br>
 
+## 👀 Ver Api Mortos
+
+<h3 align="center">
+  <a href="https://api-morto.azurewebsites.net/">https://api-morto.azurewebsites.net/</a>
+</h3>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
